@@ -1,0 +1,22 @@
+{
+  "name": "FBCocoapods",
+  "version": "0.1.0",
+  "summary": "A short description of FBCocoapods.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/yuanfengbo/FBCocoapods",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yuanfengbo": "yfb1004@163.com"
+  },
+  "source": {
+    "git": "https://github.com/yuanfengbo/FBCocoapods.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "FBCocoapods/Classes/**/*"
+}

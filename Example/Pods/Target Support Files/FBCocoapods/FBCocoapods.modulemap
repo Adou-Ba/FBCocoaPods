@@ -1,0 +1,6 @@
+framework module FBCocoapods {
+  umbrella header "FBCocoapods-umbrella.h"
+
+  export *
+  module * { export * }
+}

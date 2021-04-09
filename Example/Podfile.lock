@@ -1,0 +1,16 @@
+PODS:
+  - FBCocoapods (0.1.0)
+
+DEPENDENCIES:
+  - FBCocoapods (from `../`)
+
+EXTERNAL SOURCES:
+  FBCocoapods:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBCocoapods: 459e5eff11a5582f64ce7a6c844f378a9440acdd
+
+PODFILE CHECKSUM: ae611249172504aab14676f760dd66d9bc25e050
+
+COCOAPODS: 1.9.1
