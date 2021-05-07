@@ -13,7 +13,7 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     // Override point for customization after application launch.
-    // master_master
+    // test2
     return YES;
 }
 
